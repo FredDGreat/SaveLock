@@ -1,4 +1,4 @@
-package com.ftech.savelock;
+package com.ftech.savelock.adapters;
 
 import android.content.Context;
 import android.database.DataSetObserver;

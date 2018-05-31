@@ -7,7 +7,29 @@
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
     <string name="option_select">Select...</string>
+    <string name="title">SaveLock</string>
+    <string name="description">Keep your mobile security info save and retrievable, anytime, anywhere.</string>
+    <string name="loading">Loading</string>
+    <string name="sure_security">Sure Security</string>
+    <string name="easy_retrieve">Easy Retrieval</string>
+    <string name="description2">Saves your mobile security info(password,pattern or pin) to your email for easy retrieval.</string>
 
+
+    <string name="start">Start Now</string>
+
+    <string name="slide_1_title">Just Here!</string>
+    <string name="slide_1_desc">The easiest way to keep in touch with your Friends!</string>
+
+    <string name="slide_2_title">Lots of Sticker</string>
+    <string name="slide_2_desc">Sticker is best way then long text!</string>
+
+    <string name="slide_3_title">Introduction</string>
+    <string name="slide_3_desc">SaveLock is an Info-Security System that was built to help you create authentic backup and retrieval medium of your security info such as pattern, password or pin using your email(s). This simply means upon any means where you are unable to remember your security info, you can retrieve it right from the email(s) used when setting up your SaveLock configuration. SaveLock also has a customized fingerprint functionality that enables you to lock/unlock your phone with your fingerprint, even when your phone has no fingerprint authentication</string>
+
+    <string name="home_title">Welcome to Application</string>
+    <string name="home_desc">make friends and have fun.</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
 
     <string-array name="lock_type_array">
         <item>Phone security</item>

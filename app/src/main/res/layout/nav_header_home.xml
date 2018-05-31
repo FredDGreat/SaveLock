@@ -9,7 +9,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="144dp"
-        android:background="#88b17c"
+        android:background="@drawable/design2"
         >
         <LinearLayout
             android:id="@+id/imageView"
@@ -44,7 +44,7 @@
                 android:paddingTop="@dimen/nav_header_vertical_spacing"
                 android:text="freddgreat1@gmail.com"
                 android:layout_toRightOf="@id/userImageBg"
-                android:textColor="#e1e1e1"
+                android:textColor="#ffffff"
                 android:layout_marginLeft="4dp"
                 android:textStyle="bold"
                 android:layout_gravity="center"

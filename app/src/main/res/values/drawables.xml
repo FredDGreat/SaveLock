@@ -7,4 +7,5 @@
     <item name="ic_menu_subscribe" type="drawable">@android:drawable/ic_input_get</item>
     <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
     <item name="ic_menu_exit" type="drawable">@android:drawable/ic_menu_close_clear_cancel</item>
+    <integer name="animation_dur_medium">300</integer>
 </resources>
